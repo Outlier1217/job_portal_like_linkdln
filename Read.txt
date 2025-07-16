@@ -1,0 +1,74 @@
+Job Portal
+
+Overview
+
+A dynamic job portal built with Core PHP and MySQL, inspired by LinkedIn. It enables users to create profiles, 
+post or seek jobs, connect with professionals, and communicate directly. The admin panel provides robust tools to manage users, posts, comments, and reports, 
+ensuring a seamless and professional experience.
+
+Key Features
+
+User Features
+
+Authentication:
+Secure user registration and login.
+Example user: abcdef@gmail.com.
+pass:- 123456789
+Job Posting & Seeking:
+Job Posting: Employers post job openings with details.
+Job Seeking: Job seekers advertise their skills and availability.
+Profile Management:
+Update current/previous jobs, education (school, college, certifications), and work experience.
+Profiles help users make informed hiring decisions.
+Networking:
+
+Send tie-up requests to connect with others.
+
+Direct chat feature upon request acceptance.
+
+Engagement:
+
+
+Like, share, and comment on posts to boost interaction and visibility.
+
+Admin Panel
+
+User Management:
+
+Track and manage all user records and activities.
+
+Admin credentials:
+
+Username: outlier1217
+
+Password: 123456789
+
+Content Oversight:
+
+Monitor posts, comments, and reported content.
+
+Reports:
+
+Access user suggestions, experiences, and platform activity reports.
+
+Technical Stack
+
+Frontend: HTML, CSS, JavaScript (responsive UI).
+
+Backend: Core PHP for server-side logic.
+
+Database: MySQL for data storage.
+
+Inspiration: LinkedIn-like professional networking.
+
+Purpose
+
+The portal bridges job seekers and employers, enabling skill showcasing, professional connections, and job opportunities. The admin panel ensures smooth operation and content moderation.
+
+Future Enhancements
+
+Advanced search filters for jobs/profiles.
+
+Notifications for tie-up requests and posts.
+
+Enhanced security for user data.
